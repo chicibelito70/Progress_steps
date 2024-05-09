@@ -1,4 +1,4 @@
-# Paginacion para la pagina
+# Paginaciones
 
 ## Uso
 Esto es una pequeña idea donde se implementa la paginacion que estan las paginas.
