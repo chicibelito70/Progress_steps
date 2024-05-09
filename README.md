@@ -1,5 +1,4 @@
-# Título del Proyecto
-Paginacion para la paginas
+# Paginacion para la pagina
 
 ## Uso
 Esto es una pequeña idea donde se implementa la paginacion que estan las paginas.
